@@ -1,5 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/matjek/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/matjek/" rel="alternate" type="text/html" /><updated>2017-09-20T21:08:00+02:00</updated><id>http://localhost:4000/matjek/</id><title type="html">MatJek</title><subtitle>Material theme based on &lt;a href=&quot;http://materializecss.com&quot;&gt;Materialize.css&lt;/a&gt; for jekyll sites
-</subtitle><entry><title type="html">This is Just Another Post</title><link href="http://localhost:4000/matjek/2017/03/25/another-post" rel="alternate" type="text/html" title="This is Just Another Post" /><published>2017-03-24T18:30:13+01:00</published><updated>2017-03-24T18:30:13+01:00</updated><id>http://localhost:4000/matjek/2017/03/25/another-post</id><content type="html" xml:base="http://localhost:4000/matjek/2017/03/25/another-post">&lt;p&gt;I have some text.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/matjek/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/matjek/" rel="alternate" type="text/html" /><updated>2017-09-20T21:39:42+02:00</updated><id>http://localhost:4000/matjek/</id><title type="html">Developer Geek</title><subtitle>Material theme based on &lt;a href=&quot;http://materializecss.com&quot;&gt;Materialize.css&lt;/a&gt; for jekyll sites
+</subtitle><entry><title type="html">MiHomeSemanal#1</title><link href="http://localhost:4000/matjek/2017/05/13/MiHomeSemanal-1" rel="alternate" type="text/html" title="MiHomeSemanal#1" /><published>2017-05-12T19:30:13+02:00</published><updated>2017-05-12T19:30:13+02:00</updated><id>http://localhost:4000/matjek/2017/05/13/MiHomeSemanal#1</id><content type="html" xml:base="http://localhost:4000/matjek/2017/05/13/MiHomeSemanal-1">&lt;p&gt;Muy buenas chicos/as, hoy os quiero presentar una nueva sección que será, MiHomeSemanal, en la que explicaré como tengo personalizado, mi home, en mi dispositivo android&lt;b&gt;(Nexus6p)&lt;/b&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/matjek/assets/res/captura1.png&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bien empezemos, el launcher que utilizó es &lt;b&gt;nova launcher&lt;/b&gt;, el cual pagué hace bastante tiempo,
+y sí, puedo decir que ha sido una de mi mejores compras, dicho esto decir que utilizo una cuadricula
+de &lt;b&gt;8 x 5&lt;/b&gt;, donde en la parte superior tengo un widget llamado &lt;b&gt;chronus&lt;/b&gt; el cual me muestra, la hora, el tiempo,
+y los eventos futuros almacenados en mis calendarios. Como paquetes de &lt;b&gt;iconos&lt;/b&gt; utilizo 3 paquetes mezaclados entre sí,
+otra aplicación imprescindible la cual depende de nova launcher es &lt;b&gt;TeslaUnread&lt;/b&gt;, la cual me permite tener un control de las
+&lt;b&gt;notificaciones no leídas&lt;/b&gt;  en mis aplicaciones, aparece un contador sobre la aplicación la cuál tengamos notificaciones sin leer. Como podéis ver no es una personalización muy abstracta ni dificil, algo simple y funcional es lo que siempre busco, Aquí debajo dejo los &lt;b&gt; links de las aplicaciones utilizadas&lt;/b&gt;. Espero que os haya gustado y os sea de utilidad.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Launcher:&lt;/b&gt;
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&amp;amp;hl=es&quot;&gt;Nova launcher&lt;/a&gt; +
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.teslacoilsw.notifier&amp;amp;hl=es&quot;&gt;TeslaUnread(Para los contadores)&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Iconos:&lt;/b&gt;
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.thearclabs.polycon&amp;amp;hl=es&quot;&gt;Polycons&lt;/a&gt;,
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.zavukodlak.candycons&amp;amp;hl=es&quot;&gt;Candycons&lt;/a&gt;,
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.shahid.pineapple&amp;amp;hl=es&quot;&gt;Pineapple&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Widgets:&lt;/b&gt;
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.dvtonder.chronus&amp;amp;hl=es&quot;&gt;Chronus&lt;/a&gt; +
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.dvtonder.chronus.flat&amp;amp;hl=es&quot;&gt;Flat Weather Icons&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Android" /><category term="Launcher" /><category term="Personalización" /><summary type="html">Muy buenas chicos/as, hoy os quiero presentar una nueva sección que será, MiHomeSemanal, en la que explicaré como tengo personalizado, mi home, en mi dispositivo android(Nexus6p).</summary></entry><entry><title type="html">This is Just Another Post</title><link href="http://localhost:4000/matjek/2017/03/25/another-post" rel="alternate" type="text/html" title="This is Just Another Post" /><published>2017-03-24T18:30:13+01:00</published><updated>2017-03-24T18:30:13+01:00</updated><id>http://localhost:4000/matjek/2017/03/25/another-post</id><content type="html" xml:base="http://localhost:4000/matjek/2017/03/25/another-post">&lt;p&gt;I have some text.&lt;/p&gt;
 
 &lt;p&gt;I want some &lt;em&gt;italics&lt;/em&gt;.&lt;/p&gt;
 
@@ -23,50 +49,9 @@
   &lt;li&gt;whatever&lt;/li&gt;
   &lt;li&gt;whatever&lt;/li&gt;
   &lt;li&gt;whatever&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><category term="test" /><summary type="html">I have some text.</summary></entry><entry><title type="html">Syntax Highlighting Test</title><link href="http://localhost:4000/matjek/2017/03/24/syntax-test" rel="alternate" type="text/html" title="Syntax Highlighting Test" /><published>2017-03-23T18:30:13+01:00</published><updated>2017-03-23T18:30:13+01:00</updated><id>http://localhost:4000/matjek/2017/03/24/syntax-test</id><content type="html" xml:base="http://localhost:4000/matjek/2017/03/24/syntax-test">&lt;p&gt;Jekyll uses Rouge by default for syntax highlighting, here are some tests.&lt;/p&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="test" /><summary type="html">I have some text.</summary></entry><entry><title type="html">Bienvenidos/as a DeveloperGeek!!</title><link href="http://localhost:4000/matjek/2017/03/23/Bienvenidos" rel="alternate" type="text/html" title="Bienvenidos/as a DeveloperGeek!!" /><published>2017-03-22T18:30:13+01:00</published><updated>2017-03-22T18:30:13+01:00</updated><id>http://localhost:4000/matjek/2017/03/23/Bienvenidos</id><content type="html" xml:base="http://localhost:4000/matjek/2017/03/23/Bienvenidos">&lt;p&gt;Os doy la bienvenida a DeveloperGeek, en este blog tocaremos temáticas
+sobre Linux, Android, programación en varios lenguajes, tecnología en general.
+Si estás interesado en estos temas te invito a que me acompañes en este proyecto.
+Un saludo!!&lt;/p&gt;
 
-&lt;p&gt;Ruby:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Python with line numbers:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot; style=&quot;text-align: right&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hi, {}&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c&quot;&gt;# prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;C with line numbers:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot; style=&quot;text-align: right&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hi, %s&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Tom&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;cm&quot;&gt;/* prints 'Hi, Tom' to STDOUT. */&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name></name></author><category term="test" /><category term="syntax" /><summary type="html">Jekyll uses Rouge by default for syntax highlighting, here are some tests.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/matjek/2017/03/23/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-03-22T18:30:13+01:00</published><updated>2017-03-22T18:30:13+01:00</updated><id>http://localhost:4000/matjek/2017/03/23/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/matjek/2017/03/23/welcome-to-jekyll">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="test" /><category term="Test" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/matjek/assets/res/icono-cafe.png&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Bienvenida" /><summary type="html">Os doy la bienvenida a DeveloperGeek, en este blog tocaremos temáticas sobre Linux, Android, programación en varios lenguajes, tecnología en general. Si estás interesado en estos temas te invito a que me acompañes en este proyecto. Un saludo!!</summary></entry></feed>
