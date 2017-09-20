@@ -1,6 +1,6 @@
 # Developer Geek
 
-![_config.yml]({{ site.baseurl }}/assets/res/susomejias.github.png)
+![_config.yml](/assets/res/susomejias.github.png)
 
 ## License
 
