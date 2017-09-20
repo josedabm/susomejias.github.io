@@ -1,7 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/matjek/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/matjek/" rel="alternate" type="text/html" /><updated>2017-09-20T21:43:59+02:00</updated><id>http://localhost:4000/matjek/</id><title type="html">Developer Geek</title><subtitle>Material theme based on &lt;a href=&quot;http://materializecss.com&quot;&gt;Materialize.css&lt;/a&gt; for jekyll sites
-</subtitle><entry><title type="html">MiHomeSemanal#1</title><link href="http://localhost:4000/matjek/2017/05/13/MiHomeSemanal-1" rel="alternate" type="text/html" title="MiHomeSemanal#1" /><published>2017-05-12T19:30:13+02:00</published><updated>2017-05-12T19:30:13+02:00</updated><id>http://localhost:4000/matjek/2017/05/13/MiHomeSemanal#1</id><content type="html" xml:base="http://localhost:4000/matjek/2017/05/13/MiHomeSemanal-1">&lt;p&gt;Muy buenas chicos/as, hoy os quiero presentar una nueva sección que será, MiHomeSemanal, en la que explicaré como tengo personalizado, mi home, en mi dispositivo android&lt;b&gt;(Nexus6p)&lt;/b&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/susomejias.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/susomejias.github.io/" rel="alternate" type="text/html" /><updated>2017-09-20T23:38:37+02:00</updated><id>http://localhost:4000/susomejias.github.io/</id><title type="html">Developer Geek</title><subtitle>Material theme based on &lt;a href=&quot;http://materializecss.com&quot;&gt;Materialize.css&lt;/a&gt; for jekyll sites
+</subtitle><entry><title type="html">¿Qué distro linux utilizo?</title><link href="http://localhost:4000/susomejias.github.io/2017/07/31/QueDistroLinuxUtilizo" rel="alternate" type="text/html" title="¿Qué distro linux utilizo?" /><published>2017-07-30T19:30:13+02:00</published><updated>2017-07-30T19:30:13+02:00</updated><id>http://localhost:4000/susomejias.github.io/2017/07/31/%C2%BFQueDistroLinuxUtilizo</id><content type="html" xml:base="http://localhost:4000/susomejias.github.io/2017/07/31/QueDistroLinuxUtilizo">&lt;p&gt;Muy buenas chicos/as, hoy os voy a presentar la distribucción linux con la cuál me siento mas cómodo y utilizo en mi dia a dia para &lt;b&gt;trabajo y estudios&lt;/b&gt;.&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/matjek/assets/res/captura1.png&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/susomejias.github.io/assets/res/antergos-logo.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Esta distribucción se llama &lt;b&gt;Antergos&lt;/b&gt;, es una distribucción basada en ArchLinux, una distro que sigue un patrón de actualizaciones &lt;b&gt;rolling release&lt;/b&gt;, es decir &lt;b&gt;siempre actualizada&lt;/b&gt;, por lo cual &lt;b&gt;no dispone de versiones, como pasa con las distro basadas en debian&lt;/b&gt; etc, y bueno os preguntaréis…&lt;b&gt;¿y porque no instalar ArchLinux entonces?&lt;/b&gt;, pues bien la respuesta es muy sencilla, Antergos se puede considerar un ArchLinux con un instalador gráfico llamado &lt;b&gt;CNCHI&lt;b&gt;.&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/susomejias.github.io/assets/res/cnchi.png&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;y tengo que decir que para mi es el instalador de distribucciones mas &lt;b&gt;cómodo y bonito&lt;/b&gt; que he usado y eso que puedo decir que los he probado casi todos, a parte nos simplifica muchisimo la vida a la hora de instalar esta distribucción.&lt;/p&gt;
+
+&lt;p&gt;Una las razones por la cuál uso esta distribucción es por su gestor de paquetes llamado &lt;b&gt;pacman&lt;/b&gt;, una autentica maravilla a la hora de &lt;b&gt;instalar cualquier software&lt;/b&gt;, a parte de que tenemos esta interfaz gráfica para aprovechar aún mas la potencia de este gestor de paquetería, la interfaz se llama &lt;b&gt;pamac&lt;/b&gt;, nos permite instalar cualquier software que se nos ocurra de manera gráfica.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/susomejias.github.io/assets/res/capturaPamacGui.png&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;A día de hoy voy alternando entre dos entornos de escritorio: &lt;b&gt;XFCE&lt;/b&gt; y &lt;b&gt;Plasma&lt;/b&gt;, acá abajo os dejo algunas capturas de como tengo los dos escritorios, junto con su &lt;b&gt;screenfetch&lt;/b&gt; de cada uno para que podáis ver el &lt;b&gt;temas de iconos, temas de ventanas, terminal, kernel&lt;/b&gt; etc.&lt;/p&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;XFCE4&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/susomejias.github.io/assets/res/entorno-xfce.png&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/susomejias.github.io/assets/res/screenfetch-xfce.png&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;PLASMA 5.10.4&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/susomejias.github.io/assets/res/entorno-plasma.png&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/susomejias.github.io/assets/res/screenfetch-plasma.png&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Por último decir que cualquier duda o sugerencia, dejenla en comentarios, estaré encantado de resolverla &lt;/b&gt;.&lt;/p&gt;</content><author><name></name></author><category term="Linux" /><category term="Distribucción" /><category term="Plasma" /><category term="XFCE" /><summary type="html">Muy buenas chicos/as, hoy os voy a presentar la distribucción linux con la cuál me siento mas cómodo y utilizo en mi dia a dia para trabajo y estudios.</summary></entry><entry><title type="html">MiHomeSemanal#1</title><link href="http://localhost:4000/susomejias.github.io/2017/05/13/MiHomeSemanal-1" rel="alternate" type="text/html" title="MiHomeSemanal#1" /><published>2017-05-12T19:30:13+02:00</published><updated>2017-05-12T19:30:13+02:00</updated><id>http://localhost:4000/susomejias.github.io/2017/05/13/MiHomeSemanal#1</id><content type="html" xml:base="http://localhost:4000/susomejias.github.io/2017/05/13/MiHomeSemanal-1">&lt;p&gt;Muy buenas chicos/as, hoy os quiero presentar una nueva sección que será, MiHomeSemanal, en la que explicaré como tengo personalizado, mi home, en mi dispositivo android&lt;b&gt;(Nexus6p)&lt;/b&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/susomejias.github.io/assets/res/captura1.png&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Bien empezemos, el launcher que utilizó es &lt;b&gt;nova launcher&lt;/b&gt;, el cual pagué hace bastante tiempo,
@@ -25,33 +63,9 @@ otra aplicación imprescindible la cual depende de nova launcher es &lt;b&gt;Tes
 &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.dvtonder.chronus&amp;amp;hl=es&quot;&gt;Chronus&lt;/a&gt; +
 &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.dvtonder.chronus.flat&amp;amp;hl=es&quot;&gt;Flat Weather Icons&lt;/a&gt;
 &lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Android" /><category term="Launcher" /><category term="Personalización" /><summary type="html">Muy buenas chicos/as, hoy os quiero presentar una nueva sección que será, MiHomeSemanal, en la que explicaré como tengo personalizado, mi home, en mi dispositivo android(Nexus6p).</summary></entry><entry><title type="html">This is Just Another Post</title><link href="http://localhost:4000/matjek/2017/03/25/another-post" rel="alternate" type="text/html" title="This is Just Another Post" /><published>2017-03-24T18:30:13+01:00</published><updated>2017-03-24T18:30:13+01:00</updated><id>http://localhost:4000/matjek/2017/03/25/another-post</id><content type="html" xml:base="http://localhost:4000/matjek/2017/03/25/another-post">&lt;p&gt;I have some text.&lt;/p&gt;
-
-&lt;p&gt;I want some &lt;em&gt;italics&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;I want some &lt;strong&gt;bold&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;this-is-heading-1&quot;&gt;this is heading 1&lt;/h1&gt;
-
-&lt;h2 id=&quot;this-is-heading-2&quot;&gt;this is heading 2&lt;/h2&gt;
-
-&lt;h3 id=&quot;this-is-heading-3&quot;&gt;this is heading 3&lt;/h3&gt;
-
-&lt;p&gt;you want a list?&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;first&lt;/li&gt;
-  &lt;li&gt;second&lt;/li&gt;
-  &lt;li&gt;third&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;you want an ordered list?&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;whatever&lt;/li&gt;
-  &lt;li&gt;whatever&lt;/li&gt;
-  &lt;li&gt;whatever&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><category term="test" /><summary type="html">I have some text.</summary></entry><entry><title type="html">Bienvenidos/as a DeveloperGeek!!</title><link href="http://localhost:4000/matjek/2017/03/23/Bienvenidos" rel="alternate" type="text/html" title="Bienvenidos/as a DeveloperGeek!!" /><published>2017-03-22T18:30:13+01:00</published><updated>2017-03-22T18:30:13+01:00</updated><id>http://localhost:4000/matjek/2017/03/23/Bienvenidos</id><content type="html" xml:base="http://localhost:4000/matjek/2017/03/23/Bienvenidos">&lt;p&gt;Os doy la bienvenida a DeveloperGeek, en este blog tocaremos temáticas
+&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Android" /><category term="Launcher" /><category term="Personalización" /><summary type="html">Muy buenas chicos/as, hoy os quiero presentar una nueva sección que será, MiHomeSemanal, en la que explicaré como tengo personalizado, mi home, en mi dispositivo android(Nexus6p).</summary></entry><entry><title type="html">Bienvenidos/as a DeveloperGeek!!</title><link href="http://localhost:4000/susomejias.github.io/2017/03/23/Bienvenidos" rel="alternate" type="text/html" title="Bienvenidos/as a DeveloperGeek!!" /><published>2017-03-22T18:30:13+01:00</published><updated>2017-03-22T18:30:13+01:00</updated><id>http://localhost:4000/susomejias.github.io/2017/03/23/Bienvenidos</id><content type="html" xml:base="http://localhost:4000/susomejias.github.io/2017/03/23/Bienvenidos">&lt;p&gt;Os doy la bienvenida a DeveloperGeek, en este blog tocaremos temáticas
 sobre Linux, Android, programación en varios lenguajes, tecnología en general.
 Si estás interesado en estos temas te invito a que me acompañes en este proyecto.
 Un saludo!!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/matjek/assets/res/icono-cafe.png&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Bienvenida" /><summary type="html">Os doy la bienvenida a DeveloperGeek, en este blog tocaremos temáticas sobre Linux, Android, programación en varios lenguajes, tecnología en general. Si estás interesado en estos temas te invito a que me acompañes en este proyecto. Un saludo!!</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/susomejias.github.io/assets/res/icono-cafe.png&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Bienvenida" /><summary type="html">Os doy la bienvenida a DeveloperGeek, en este blog tocaremos temáticas sobre Linux, Android, programación en varios lenguajes, tecnología en general. Si estás interesado en estos temas te invito a que me acompañes en este proyecto. Un saludo!!</summary></entry></feed>

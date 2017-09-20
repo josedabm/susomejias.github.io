@@ -16,7 +16,7 @@
 title: Developer Geek
 description: > # this means to ignore newlines until "baseurl:"
   Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
-baseurl: "/matjek"
+baseurl: "/susomejias.github.io"
 url: "https://susomejias.github.io"
 permalink: /:year/:month/:day/:title
 repository: ShawnTeoh/matjek
@@ -25,9 +25,9 @@ paginate: 5
 # MatJek specific configurations
 github_profile: "https://github.com/susomejias"
 user: "susomejias"
-user_email: "jesusmejias.jm.com"
+user_email: "jesusmejias.jm@gmail.com"
 contact_url: "https://goo.gl/tVljbV"
-disqus_shortname: "https-susomejias-github-io"
+disqus_shortname: "disqus_oYDHmdCYIE"
 
 # Build settings
 markdown: kramdown
