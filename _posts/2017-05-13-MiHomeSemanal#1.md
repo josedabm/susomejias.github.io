@@ -2,7 +2,7 @@
 layout: post
 title:  "MiHomeSemanal#1"
 date:   2017-05-13 01:30:13 +0800
-categories: default
+categories: Android
 tags: Android Launcher Personalización
 ---
 

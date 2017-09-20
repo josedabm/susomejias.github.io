@@ -2,7 +2,7 @@
 layout: post
 title:  "Bienvenidos/as a DeveloperGeek!!"
 date:   2017-03-23 01:30:13 +0800
-categories: Default
+categories: Otros_temas
 tags: Bienvenida
 comments: 1
 ---

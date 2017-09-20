@@ -1,5 +1,130 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/susomejias.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/susomejias.github.io/" rel="alternate" type="text/html" /><updated>2017-09-20T23:48:11+02:00</updated><id>http://localhost:4000/susomejias.github.io/</id><title type="html">Developer Geek</title><subtitle>Material theme based on &lt;a href=&quot;http://materializecss.com&quot;&gt;Materialize.css&lt;/a&gt; for jekyll sites
-</subtitle><entry><title type="html">¿Qué distro linux utilizo?</title><link href="http://localhost:4000/susomejias.github.io/2017/07/31/QueDistroLinuxUtilizo" rel="alternate" type="text/html" title="¿Qué distro linux utilizo?" /><published>2017-07-30T19:30:13+02:00</published><updated>2017-07-30T19:30:13+02:00</updated><id>http://localhost:4000/susomejias.github.io/2017/07/31/%C2%BFQueDistroLinuxUtilizo</id><content type="html" xml:base="http://localhost:4000/susomejias.github.io/2017/07/31/QueDistroLinuxUtilizo">&lt;p&gt;Muy buenas chicos/as, hoy os voy a presentar la distribucción linux con la cuál me siento mas cómodo y utilizo en mi dia a dia para &lt;b&gt;trabajo y estudios&lt;/b&gt;.&lt;br /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/susomejias.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/susomejias.github.io/" rel="alternate" type="text/html" /><updated>2017-09-21T00:02:40+02:00</updated><id>http://localhost:4000/susomejias.github.io/</id><title type="html">Developer Geek</title><subtitle>Material theme based on &lt;a href=&quot;http://materializecss.com&quot;&gt;Materialize.css&lt;/a&gt; for jekyll sites
+</subtitle><entry><title type="html">Script SuMiTools-Linux (Ubuntu/mint)</title><link href="http://localhost:4000/susomejias.github.io/2017/08/23/Script-python-SuMiTools-Linux-para-ubuntu-mint" rel="alternate" type="text/html" title="Script SuMiTools-Linux (Ubuntu/mint)" /><published>2017-08-22T19:30:13+02:00</published><updated>2017-08-22T19:30:13+02:00</updated><id>http://localhost:4000/susomejias.github.io/2017/08/23/Script%20python%20SuMiTools-Linux%20para%20ubuntu-mint</id><content type="html" xml:base="http://localhost:4000/susomejias.github.io/2017/08/23/Script-python-SuMiTools-Linux-para-ubuntu-mint">&lt;p&gt;Muy buenas a todos/as de nuevo vuelvo por aquí, en esta ocasión para presentaros un &lt;b&gt;script&lt;/b&gt; en &lt;b&gt;python&lt;/b&gt; que he realizado en conjunción con un compañero llamado &lt;b&gt;Miguel (&lt;a href=&quot;https://github.com/Miangame&quot;&gt;https://github.com/Miangame&lt;/a&gt;)&lt;/b&gt; de ahi el nombre del script &lt;b&gt;(Su)&lt;/b&gt;-De suso, &lt;b&gt;(Mi)&lt;/b&gt;-De miguel y &lt;b&gt;(Tools)&lt;/b&gt;-De herramientas.&lt;/p&gt;
+
+&lt;p&gt;Una vez presentado el nombre del script, os quiero comentar que solo  ha sido probado sobre &lt;b&gt;ubuntu&lt;/b&gt;, &lt;b&gt;debería&lt;/b&gt; de &lt;b&gt;funcionar en las distros basadas en ella&lt;/b&gt;, cualquier &lt;b&gt;incopatibilidad&lt;/b&gt; sería de mucha &lt;b&gt;ayuda comentarla&lt;/b&gt;, para intentar &lt;b&gt;solucionarla y comentarla&lt;/b&gt; en las instrucciones del &lt;b&gt;script&lt;/b&gt; para así evitar &lt;b&gt;errores&lt;/b&gt; y &lt;b&gt;problemas&lt;/b&gt; en los equipos de los usuarios del script.&lt;/p&gt;
+
+&lt;p&gt;Cabe decir que el &lt;b&gt;script&lt;/b&gt; es probado por &lt;b&gt;mi&lt;/b&gt; y mi compañero &lt;b&gt;miguel&lt;/b&gt;, por lo cual &lt;b&gt;no es probado por una gran cantidad de personas&lt;/b&gt; por lo que puede presentar &lt;b&gt;pequeños&lt;/b&gt;, &lt;b&gt;errores&lt;/b&gt;, que como dije antes sería de mucha &lt;b&gt;ayuda&lt;/b&gt; comentarlos para &lt;b&gt;solucionarlos&lt;/b&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ahora paso a mostraros algunas &lt;b&gt;capturas&lt;/b&gt; de las opciones que ofrece de momento el script &lt;b&gt;(las capturas son de la versión 2.3), cualquier función que veáis útil y os sea de ayuda, podéis comentarla para añadirla.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 align=&quot;center&quot;&gt;Menu principal del script&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/susomejias.github.io/assets/res/MenuPrincipal.png&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 align=&quot;center&quot;&gt;Mantenimiento del sistema&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/susomejias.github.io/assets/res/MantenerSistema.png&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 align=&quot;center&quot;&gt;Instalación software general&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/susomejias.github.io/assets/res/SoftwareGeneral.png&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 align=&quot;center&quot;&gt;Instalación software para programadores&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/susomejias.github.io/assets/res/SoftwareProgramadores.png&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 align=&quot;center&quot;&gt;Personalización&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/susomejias.github.io/assets/res/Personalizacion.png&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 align=&quot;center&quot;&gt;Instalación kernels modificados&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/susomejias.github.io/assets/res/Kernels.png&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 align=&quot;center&quot;&gt;Instalación de drivers y controladores&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/susomejias.github.io/assets/res/Drivers.png&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Por aquí dejo el &lt;b&gt;link al repositorio&lt;/b&gt; donde encontraréis los &lt;b&gt;archivos e información necesaria para hacer funcionar el script&lt;/b&gt;, espero que os guste y como siempre digo toda ayuda es bienvenida, un saludo, y gracias.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Link al repositorio&lt;/b&gt;: &lt;a href=&quot;https://github.com/susomejias/susomejias.github.io&quot;&gt;https://github.com/susomejias/susomejias.github.io&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Linux" /><category term="Kernel" /><category term="XanMod" /><category term="Ubuntu" /><summary type="html">Muy buenas a todos/as de nuevo vuelvo por aquí, en esta ocasión para presentaros un script en python que he realizado en conjunción con un compañero llamado Miguel (https://github.com/Miangame) de ahi el nombre del script (Su)-De suso, (Mi)-De miguel y (Tools)-De herramientas.</summary></entry><entry><title type="html">¿Cómo instalar kernel XanMod en ubuntu/debian/mint?</title><link href="http://localhost:4000/susomejias.github.io/2017/08/23/Como-instalar-kernel-XanMod-en-ubuntu-debia-mint" rel="alternate" type="text/html" title="¿Cómo instalar kernel XanMod en ubuntu/debian/mint?" /><published>2017-08-22T19:30:13+02:00</published><updated>2017-08-22T19:30:13+02:00</updated><id>http://localhost:4000/susomejias.github.io/2017/08/23/%C2%BFComo%20instalar%20kernel%20XanMod%20en%20ubuntu-debia-mint</id><content type="html" xml:base="http://localhost:4000/susomejias.github.io/2017/08/23/Como-instalar-kernel-XanMod-en-ubuntu-debia-mint">&lt;p&gt;Muy buenas chicos/as, hoy os voy a enseñar a instalar un kernel modificado en vuestra distribucción linux, cabe decir que debe ser una distribucción basada en debian/ubuntu, ya que la instalación requiere añadir
+unos repositorios, los cuáles obviamente no van a servir para distribucciones que no se basen en debian/ubuntu, también decir que &lt;b&gt;¡¡¡no me hago responsable de cualquier daño o perjuicio causado a tu equipo realiza el tutorial bajo tu responsabilidad, dicho esto comenzemos!!!&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/susomejias.github.io/assets/res/XanModKernel.png&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Vale y os preguntaréis &lt;b&gt;¿Qué me aportaría un kernel modificado?&lt;/b&gt; , pues la respuesta es bien sencilla, &lt;b&gt;eso si cabe decir que es una opinión personal basada en mi uso&lt;/b&gt;, yo básicamente lo llevo por tener los ultimos parches del kernel de linux y porque en &lt;b&gt;“teoría”&lt;/b&gt; están preparados para ofrecer un mejor rendimiento del equipo, esto dependerá en gran medida del equipo en el cuál lo instales, si es un equipo muy potente probablemente no notéis mucho la diferencia.&lt;/p&gt;
+
+&lt;p&gt;Bien comencemos con la instalación, en primer lugar deberemos &lt;b&gt;añadir el repositorio&lt;/b&gt; del cual bajaremos el kernel, para ello usaremos el siguiente comando:
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;echo 'deb http://deb.xanmod.org releases main' | sudo tee /etc/apt/sources.list.d/xanmod-kernel.list &amp;amp;&amp;amp; wget -qO - http://deb.xanmod.org/gpg.key | sudo apt-key add -  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ahora procederemos a &lt;b&gt;actualizar los respositorios, e instalar el kernel, tengo que decir, que depende de cuando veáis este tuto, obviamente la versión del kernel va a ir actualizandose, deberemos cambiar la versión del kernel la cual queremos instalar en mi caso a dia de hoy la ultima versión disponible es la 4.12.8&lt;/b&gt;, por tanto usaré los siguiente comandos para actualizar e instalar el kernel:
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+sudo apt update &amp;amp;&amp;amp; sudo apt install linux-xanmod-4.
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Una vez actualizados los repositorios e instalado el kernel, es recomendable instalar los &lt;b&gt;Microcodes&lt;/b&gt; de tu procesador ya sea &lt;b&gt;Intel&lt;/b&gt; o &lt;b&gt;AMD&lt;/b&gt;, tan simple como copiar el comando adecuado al procesador de tu equipo:
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Para procesadores Intel:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+sudo apt install intel-microcode iucode-tool
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Para procesadores AMD (64 bits):&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+sudo apt install amd64-microcode
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Una vez realizados todos los pasos con éxito, solo queda reiniciar el equipo&lt;/b&gt; y el siguiente arranque, usará el nuevo kernel &lt;b&gt;XanMod&lt;/b&gt; para el arranque del sistema.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Cualquier duda o sugerencia es bienvenida en los comentarios, un saludo y espero que os haya gustado.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Fuente original:&lt;/b&gt; &lt;a href=&quot;https://xanmod.org/&quot;&gt;https://xanmod.org/&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Link para la descarga del wallpaper oficial de XanMod:&lt;/b&gt; &lt;a href=&quot;https://xanmod.org/_detail/xanmod_wallpaper.png?id=download&quot;&gt;https://xanmod.org/_detail/xanmod_wallpaper.png?id=download&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Linux" /><category term="Kernel" /><category term="XanMod" /><category term="Ubuntu" /><summary type="html">Muy buenas chicos/as, hoy os voy a enseñar a instalar un kernel modificado en vuestra distribucción linux, cabe decir que debe ser una distribucción basada en debian/ubuntu, ya que la instalación requiere añadir unos repositorios, los cuáles obviamente no van a servir para distribucciones que no se basen en debian/ubuntu, también decir que ¡¡¡no me hago responsable de cualquier daño o perjuicio causado a tu equipo realiza el tutorial bajo tu responsabilidad, dicho esto comenzemos!!!</summary></entry><entry><title type="html">¿Qué distro linux utilizo?</title><link href="http://localhost:4000/susomejias.github.io/2017/07/31/QueDistroLinuxUtilizo" rel="alternate" type="text/html" title="¿Qué distro linux utilizo?" /><published>2017-07-30T19:30:13+02:00</published><updated>2017-07-30T19:30:13+02:00</updated><id>http://localhost:4000/susomejias.github.io/2017/07/31/%C2%BFQueDistroLinuxUtilizo</id><content type="html" xml:base="http://localhost:4000/susomejias.github.io/2017/07/31/QueDistroLinuxUtilizo">&lt;p&gt;Muy buenas chicos/as, hoy os voy a presentar la distribucción linux con la cuál me siento mas cómodo y utilizo en mi dia a dia para &lt;b&gt;trabajo y estudios&lt;/b&gt;.&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/susomejias.github.io/assets/res/antergos-logo.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;br /&gt;&lt;/p&gt;

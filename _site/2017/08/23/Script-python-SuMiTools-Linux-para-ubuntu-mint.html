@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+      
+      Script SuMiTools-Linux (Ubuntu/mint)
+      
+    </title>
+    <link rel="shortcut icon" type="image/x-icon" href="/susomejias.github.io/assets/res/favicon.ico">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/css/materialize.min.css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="/susomejias.github.io/assets/css/main.css">
+    
+    
+    <link rel="stylesheet" href="/susomejias.github.io/assets/css/post.css">
+    
+    
+    
+    <link rel="stylesheet" href="/susomejias.github.io/assets/css/syntax.css">
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/susomejias.github.io/feed.xml">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/susomejias.github.io/sitemap.xml">
+    <!-- Begin Jekyll SEO tag v2.3.0 -->
+<meta property="og:title" content="Script SuMiTools-Linux (Ubuntu/mint)" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Muy buenas a todos/as de nuevo vuelvo por aquí, en esta ocasión para presentaros un script en python que he realizado en conjunción con un compañero llamado Miguel (https://github.com/Miangame) de ahi el nombre del script (Su)-De suso, (Mi)-De miguel y (Tools)-De herramientas." />
+<meta property="og:description" content="Muy buenas a todos/as de nuevo vuelvo por aquí, en esta ocasión para presentaros un script en python que he realizado en conjunción con un compañero llamado Miguel (https://github.com/Miangame) de ahi el nombre del script (Su)-De suso, (Mi)-De miguel y (Tools)-De herramientas." />
+<link rel="canonical" href="http://localhost:4000/susomejias.github.io/2017/08/23/Script-python-SuMiTools-Linux-para-ubuntu-mint" />
+<meta property="og:url" content="http://localhost:4000/susomejias.github.io/2017/08/23/Script-python-SuMiTools-Linux-para-ubuntu-mint" />
+<meta property="og:site_name" content="Developer Geek" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2017-08-22T19:30:13+02:00" />
+<script type="application/ld+json">
+{"name":null,"description":"Muy buenas a todos/as de nuevo vuelvo por aquí, en esta ocasión para presentaros un script en python que he realizado en conjunción con un compañero llamado Miguel (https://github.com/Miangame) de ahi el nombre del script (Su)-De suso, (Mi)-De miguel y (Tools)-De herramientas.","author":null,"@type":"BlogPosting","url":"http://localhost:4000/susomejias.github.io/2017/08/23/Script-python-SuMiTools-Linux-para-ubuntu-mint","publisher":null,"image":null,"headline":"Script SuMiTools-Linux (Ubuntu/mint)","dateModified":"2017-08-22T19:30:13+02:00","datePublished":"2017-08-22T19:30:13+02:00","sameAs":null,"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/susomejias.github.io/2017/08/23/Script-python-SuMiTools-Linux-para-ubuntu-mint"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+  <body>
+    <header>
+      <nav class="top-nav teal">
+        <div class="nav-wrapper">
+          <div class="container">
+            <a class="page-title" href="/susomejias.github.io/">Developer Geek</a>
+          </div>
+        </div>
+      </nav>
+      <div class="container">
+        <a href="#" data-activates="slide-out" class="button-collapse top-nav full hide-on-large-only">
+          <i class="material-icons">menu</i>
+        </a>
+      </div>
+      <ul id="slide-out" class="side-nav fixed">
+        <li>
+          <div class="userView">
+            <div class="background"></div>
+            <a href="https://github.com/susomejias" target="_blank"><img class="circle z-depth-2" src="/susomejias.github.io/assets/res/user.png"></a>
+            <span class="white-text name">susomejias</span>
+            <span class="white-text email">jesusmejias.jm@gmail.com</span>
+          </div>
+        </li>
+        <li><a class="waves-effect" href="/susomejias.github.io/"><i class="material-icons">home</i>Home</a></li>
+        <li><a class="waves-effect" href="/susomejias.github.io/projects"><i class="material-icons">description</i>Projects</a></li>
+        <li><a class="waves-effect" href="/susomejias.github.io/categories"><i class="material-icons">sort</i>Categories</a></li>
+        <li><a class="waves-effect" href="/susomejias.github.io/tags"><i class="material-icons">label</i>Tags</a></li>
+        <li><a class="waves-effect" href="/susomejias.github.io/feed.xml" target="_blank"><i class="material-icons">rss_feed</i>RSS</a></li>
+        <li><div class="divider"></div></li>
+        <li><a class="waves-effect" href="/susomejias.github.io/about"><i class="material-icons">person</i>About</a></li>
+        <li><a class="waves-effect" href="/susomejias.github.io/contact"><i class="material-icons">email</i>Contact</a></li>
+      </ul>
+    </header>
+    <main>
+
+<div class="container">
+  <div id="post-info">
+  <h3>Script SuMiTools-Linux (Ubuntu/mint)</h3>
+  <ul class="collapsible hoverable" data-collapsible="accordion">
+    <li>
+      <div class="collapsible-header">
+        <span>
+          <i class="material-icons tooltipped" data-position="left" data-delay="30" data-tooltip="Date">date_range</i>
+          23/08/2017 01:30
+          <i id="indicate" class="right material-icons tooltipped" data-position="left" data-delay="30" data-tooltip="Show extra info">info</i>
+        </span>
+      </div>
+      <div class="collapsible-body">
+        <span>
+          <i class="material-icons tooltipped" data-position="left" data-delay="30" data-tooltip="Categories">sort</i>
+          
+          
+          
+          <a href="/susomejias.github.io/categories#linux_cap" target="_blank"><div class="chip">Linux</div></a>
+          
+        </span>
+        <span>
+          <i class="material-icons tooltipped" data-position="left" data-delay="30" data-tooltip="Tags">label</i>
+          
+          
+          
+          <a href="/susomejias.github.io/tags#linux_cap" target="_blank"><div class="chip">Linux</div></a>
+          
+          
+          
+          <a href="/susomejias.github.io/tags#kernel_cap" target="_blank"><div class="chip">Kernel</div></a>
+          
+          
+          
+          <a href="/susomejias.github.io/tags#xanmod_cap" target="_blank"><div class="chip">XanMod</div></a>
+          
+          
+          
+          <a href="/susomejias.github.io/tags#ubuntu_cap" target="_blank"><div class="chip">Ubuntu</div></a>
+          
+        </span>
+      </div>
+    </li>
+  </ul>
+</div>
+<div class="divider"></div>
+<div class="row">
+  <div class="col s12">
+    <p>Muy buenas a todos/as de nuevo vuelvo por aquí, en esta ocasión para presentaros un <b>script</b> en <b>python</b> que he realizado en conjunción con un compañero llamado <b>Miguel (<a href="https://github.com/Miangame">https://github.com/Miangame</a>)</b> de ahi el nombre del script <b>(Su)</b>-De suso, <b>(Mi)</b>-De miguel y <b>(Tools)</b>-De herramientas.</p>
+
+<p>Una vez presentado el nombre del script, os quiero comentar que solo  ha sido probado sobre <b>ubuntu</b>, <b>debería</b> de <b>funcionar en las distros basadas en ella</b>, cualquier <b>incopatibilidad</b> sería de mucha <b>ayuda comentarla</b>, para intentar <b>solucionarla y comentarla</b> en las instrucciones del <b>script</b> para así evitar <b>errores</b> y <b>problemas</b> en los equipos de los usuarios del script.</p>
+
+<p>Cabe decir que el <b>script</b> es probado por <b>mi</b> y mi compañero <b>miguel</b>, por lo cual <b>no es probado por una gran cantidad de personas</b> por lo que puede presentar <b>pequeños</b>, <b>errores</b>, que como dije antes sería de mucha <b>ayuda</b> comentarlos para <b>solucionarlos</b>.</p>
+
+<p>Ahora paso a mostraros algunas <b>capturas</b> de las opciones que ofrece de momento el script <b>(las capturas son de la versión 2.3), cualquier función que veáis útil y os sea de ayuda, podéis comentarla para añadirla.</b></p>
+
+<p><br />
+<br /></p>
+
+<h3 align="center">Menu principal del script</h3>
+<p><br />
+<img src="/susomejias.github.io/assets/res/MenuPrincipal.png" alt="_config.yml" />
+<br /></p>
+
+<h3 align="center">Mantenimiento del sistema</h3>
+<p><br />
+<img src="/susomejias.github.io/assets/res/MantenerSistema.png" alt="_config.yml" />
+<br /></p>
+
+<h3 align="center">Instalación software general</h3>
+<p><br />
+<img src="/susomejias.github.io/assets/res/SoftwareGeneral.png" alt="_config.yml" />
+<br /></p>
+
+<h3 align="center">Instalación software para programadores</h3>
+<p><br />
+<img src="/susomejias.github.io/assets/res/SoftwareProgramadores.png" alt="_config.yml" />
+<br /></p>
+
+<h3 align="center">Personalización</h3>
+<p><br />
+<img src="/susomejias.github.io/assets/res/Personalizacion.png" alt="_config.yml" />
+<br /></p>
+
+<h3 align="center">Instalación kernels modificados</h3>
+<p><br />
+<img src="/susomejias.github.io/assets/res/Kernels.png" alt="_config.yml" />
+<br /></p>
+
+<h3 align="center">Instalación de drivers y controladores</h3>
+<p><br />
+<img src="/susomejias.github.io/assets/res/Drivers.png" alt="_config.yml" />
+<br /></p>
+
+<p>Por aquí dejo el <b>link al repositorio</b> donde encontraréis los <b>archivos e información necesaria para hacer funcionar el script</b>, espero que os guste y como siempre digo toda ayuda es bienvenida, un saludo, y gracias.
+<br />
+<br /></p>
+
+<p><b>Link al repositorio</b>: <a href="https://github.com/susomejias/susomejias.github.io">https://github.com/susomejias/susomejias.github.io</a></p>
+
+  </div>
+</div>
+
+</div>
+
+    </main>
+    <footer class="page-footer teal">
+      <div class="container">
+        <div class="row">
+          <div class="col s12">
+            <img src="/susomejias.github.io/assets/res/logo.png" alt="logo"/>
+            <p class="grey-text text-lighten-4">Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
+</p>
+          </div>
+        </div>
+      </div>
+      <div class="footer-copyright">
+        <div class="container">
+          &#xA9; 2017 Developer Geek. All rights reserved. Powered by <a href="https://github.com/ShawnTeoh/matjek">MatJek</a>.
+        </div>
+      </div>
+    </footer>
+    <script src="//code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/js/materialize.min.js"></script>
+    
+    
+    <script src="/susomejias.github.io/assets/js/post.js"></script>
+    
+    
+    
+    
+    <script src="/susomejias.github.io/assets/js/main.js"></script>
+  </body>
+</html>

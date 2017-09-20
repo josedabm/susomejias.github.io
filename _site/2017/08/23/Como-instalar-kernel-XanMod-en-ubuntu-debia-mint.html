@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+      
+      ¿Cómo instalar kernel XanMod en ubuntu/debian/mint?
+      
+    </title>
+    <link rel="shortcut icon" type="image/x-icon" href="/susomejias.github.io/assets/res/favicon.ico">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/css/materialize.min.css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="/susomejias.github.io/assets/css/main.css">
+    
+    
+    <link rel="stylesheet" href="/susomejias.github.io/assets/css/post.css">
+    
+    
+    
+    <link rel="stylesheet" href="/susomejias.github.io/assets/css/syntax.css">
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/susomejias.github.io/feed.xml">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/susomejias.github.io/sitemap.xml">
+    <!-- Begin Jekyll SEO tag v2.3.0 -->
+<meta property="og:title" content="¿Cómo instalar kernel XanMod en ubuntu/debian/mint?" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Muy buenas chicos/as, hoy os voy a enseñar a instalar un kernel modificado en vuestra distribucción linux, cabe decir que debe ser una distribucción basada en debian/ubuntu, ya que la instalación requiere añadir unos repositorios, los cuáles obviamente no van a servir para distribucciones que no se basen en debian/ubuntu, también decir que ¡¡¡no me hago responsable de cualquier daño o perjuicio causado a tu equipo realiza el tutorial bajo tu responsabilidad, dicho esto comenzemos!!!" />
+<meta property="og:description" content="Muy buenas chicos/as, hoy os voy a enseñar a instalar un kernel modificado en vuestra distribucción linux, cabe decir que debe ser una distribucción basada en debian/ubuntu, ya que la instalación requiere añadir unos repositorios, los cuáles obviamente no van a servir para distribucciones que no se basen en debian/ubuntu, también decir que ¡¡¡no me hago responsable de cualquier daño o perjuicio causado a tu equipo realiza el tutorial bajo tu responsabilidad, dicho esto comenzemos!!!" />
+<link rel="canonical" href="http://localhost:4000/susomejias.github.io/2017/08/23/Como-instalar-kernel-XanMod-en-ubuntu-debia-mint" />
+<meta property="og:url" content="http://localhost:4000/susomejias.github.io/2017/08/23/Como-instalar-kernel-XanMod-en-ubuntu-debia-mint" />
+<meta property="og:site_name" content="Developer Geek" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2017-08-22T19:30:13+02:00" />
+<script type="application/ld+json">
+{"name":null,"description":"Muy buenas chicos/as, hoy os voy a enseñar a instalar un kernel modificado en vuestra distribucción linux, cabe decir que debe ser una distribucción basada en debian/ubuntu, ya que la instalación requiere añadir unos repositorios, los cuáles obviamente no van a servir para distribucciones que no se basen en debian/ubuntu, también decir que ¡¡¡no me hago responsable de cualquier daño o perjuicio causado a tu equipo realiza el tutorial bajo tu responsabilidad, dicho esto comenzemos!!!","author":null,"@type":"BlogPosting","url":"http://localhost:4000/susomejias.github.io/2017/08/23/Como-instalar-kernel-XanMod-en-ubuntu-debia-mint","publisher":null,"image":null,"headline":"¿Cómo instalar kernel XanMod en ubuntu/debian/mint?","dateModified":"2017-08-22T19:30:13+02:00","datePublished":"2017-08-22T19:30:13+02:00","sameAs":null,"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/susomejias.github.io/2017/08/23/Como-instalar-kernel-XanMod-en-ubuntu-debia-mint"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+  <body>
+    <header>
+      <nav class="top-nav teal">
+        <div class="nav-wrapper">
+          <div class="container">
+            <a class="page-title" href="/susomejias.github.io/">Developer Geek</a>
+          </div>
+        </div>
+      </nav>
+      <div class="container">
+        <a href="#" data-activates="slide-out" class="button-collapse top-nav full hide-on-large-only">
+          <i class="material-icons">menu</i>
+        </a>
+      </div>
+      <ul id="slide-out" class="side-nav fixed">
+        <li>
+          <div class="userView">
+            <div class="background"></div>
+            <a href="https://github.com/susomejias" target="_blank"><img class="circle z-depth-2" src="/susomejias.github.io/assets/res/user.png"></a>
+            <span class="white-text name">susomejias</span>
+            <span class="white-text email">jesusmejias.jm@gmail.com</span>
+          </div>
+        </li>
+        <li><a class="waves-effect" href="/susomejias.github.io/"><i class="material-icons">home</i>Home</a></li>
+        <li><a class="waves-effect" href="/susomejias.github.io/projects"><i class="material-icons">description</i>Projects</a></li>
+        <li><a class="waves-effect" href="/susomejias.github.io/categories"><i class="material-icons">sort</i>Categories</a></li>
+        <li><a class="waves-effect" href="/susomejias.github.io/tags"><i class="material-icons">label</i>Tags</a></li>
+        <li><a class="waves-effect" href="/susomejias.github.io/feed.xml" target="_blank"><i class="material-icons">rss_feed</i>RSS</a></li>
+        <li><div class="divider"></div></li>
+        <li><a class="waves-effect" href="/susomejias.github.io/about"><i class="material-icons">person</i>About</a></li>
+        <li><a class="waves-effect" href="/susomejias.github.io/contact"><i class="material-icons">email</i>Contact</a></li>
+      </ul>
+    </header>
+    <main>
+
+<div class="container">
+  <div id="post-info">
+  <h3>¿Cómo instalar kernel XanMod en ubuntu/debian/mint?</h3>
+  <ul class="collapsible hoverable" data-collapsible="accordion">
+    <li>
+      <div class="collapsible-header">
+        <span>
+          <i class="material-icons tooltipped" data-position="left" data-delay="30" data-tooltip="Date">date_range</i>
+          23/08/2017 01:30
+          <i id="indicate" class="right material-icons tooltipped" data-position="left" data-delay="30" data-tooltip="Show extra info">info</i>
+        </span>
+      </div>
+      <div class="collapsible-body">
+        <span>
+          <i class="material-icons tooltipped" data-position="left" data-delay="30" data-tooltip="Categories">sort</i>
+          
+          
+          
+          <a href="/susomejias.github.io/categories#linux_cap" target="_blank"><div class="chip">Linux</div></a>
+          
+        </span>
+        <span>
+          <i class="material-icons tooltipped" data-position="left" data-delay="30" data-tooltip="Tags">label</i>
+          
+          
+          
+          <a href="/susomejias.github.io/tags#linux_cap" target="_blank"><div class="chip">Linux</div></a>
+          
+          
+          
+          <a href="/susomejias.github.io/tags#kernel_cap" target="_blank"><div class="chip">Kernel</div></a>
+          
+          
+          
+          <a href="/susomejias.github.io/tags#xanmod_cap" target="_blank"><div class="chip">XanMod</div></a>
+          
+          
+          
+          <a href="/susomejias.github.io/tags#ubuntu_cap" target="_blank"><div class="chip">Ubuntu</div></a>
+          
+        </span>
+      </div>
+    </li>
+  </ul>
+</div>
+<div class="divider"></div>
+<div class="row">
+  <div class="col s12">
+    <p>Muy buenas chicos/as, hoy os voy a enseñar a instalar un kernel modificado en vuestra distribucción linux, cabe decir que debe ser una distribucción basada en debian/ubuntu, ya que la instalación requiere añadir
+unos repositorios, los cuáles obviamente no van a servir para distribucciones que no se basen en debian/ubuntu, también decir que <b>¡¡¡no me hago responsable de cualquier daño o perjuicio causado a tu equipo realiza el tutorial bajo tu responsabilidad, dicho esto comenzemos!!!</b><br /></p>
+
+<p><img src="/susomejias.github.io/assets/res/XanModKernel.png" alt="_config.yml" />
+<br /></p>
+
+<p>Vale y os preguntaréis <b>¿Qué me aportaría un kernel modificado?</b> , pues la respuesta es bien sencilla, <b>eso si cabe decir que es una opinión personal basada en mi uso</b>, yo básicamente lo llevo por tener los ultimos parches del kernel de linux y porque en <b>“teoría”</b> están preparados para ofrecer un mejor rendimiento del equipo, esto dependerá en gran medida del equipo en el cuál lo instales, si es un equipo muy potente probablemente no notéis mucho la diferencia.</p>
+
+<p>Bien comencemos con la instalación, en primer lugar deberemos <b>añadir el repositorio</b> del cual bajaremos el kernel, para ello usaremos el siguiente comando:
+<br />
+<br /></p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>echo 'deb http://deb.xanmod.org releases main' | sudo tee /etc/apt/sources.list.d/xanmod-kernel.list &amp;&amp; wget -qO - http://deb.xanmod.org/gpg.key | sudo apt-key add -  
+</code></pre>
+</div>
+<p><br />
+<br /></p>
+
+<p>Ahora procederemos a <b>actualizar los respositorios, e instalar el kernel, tengo que decir, que depende de cuando veáis este tuto, obviamente la versión del kernel va a ir actualizandose, deberemos cambiar la versión del kernel la cual queremos instalar en mi caso a dia de hoy la ultima versión disponible es la 4.12.8</b>, por tanto usaré los siguiente comandos para actualizar e instalar el kernel:
+<br />
+<br /></p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>
+sudo apt update &amp;&amp; sudo apt install linux-xanmod-4.
+
+</code></pre>
+</div>
+
+<p><br />
+<br /></p>
+
+<p>Una vez actualizados los repositorios e instalado el kernel, es recomendable instalar los <b>Microcodes</b> de tu procesador ya sea <b>Intel</b> o <b>AMD</b>, tan simple como copiar el comando adecuado al procesador de tu equipo:
+<br />
+<br /></p>
+
+<p><strong><em>Para procesadores Intel:</em></strong></p>
+
+<p><br />
+<br /></p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>
+sudo apt install intel-microcode iucode-tool
+
+</code></pre>
+</div>
+
+<p><br />
+<br /></p>
+
+<p><strong><em>Para procesadores AMD (64 bits):</em></strong></p>
+
+<p><br />
+<br /></p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>
+sudo apt install amd64-microcode
+
+</code></pre>
+</div>
+<p><br />
+<br /></p>
+
+<p><b>Una vez realizados todos los pasos con éxito, solo queda reiniciar el equipo</b> y el siguiente arranque, usará el nuevo kernel <b>XanMod</b> para el arranque del sistema.<br /></p>
+
+<p><b>Cualquier duda o sugerencia es bienvenida en los comentarios, un saludo y espero que os haya gustado.</b></p>
+
+<p><br />
+<br /></p>
+
+<p><b>Fuente original:</b> <a href="https://xanmod.org/">https://xanmod.org/</a>
+<br />
+<br />
+<b>Link para la descarga del wallpaper oficial de XanMod:</b> <a href="https://xanmod.org/_detail/xanmod_wallpaper.png?id=download">https://xanmod.org/_detail/xanmod_wallpaper.png?id=download</a></p>
+
+<p><br />
+<br /></p>
+
+  </div>
+</div>
+
+</div>
+
+    </main>
+    <footer class="page-footer teal">
+      <div class="container">
+        <div class="row">
+          <div class="col s12">
+            <img src="/susomejias.github.io/assets/res/logo.png" alt="logo"/>
+            <p class="grey-text text-lighten-4">Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
+</p>
+          </div>
+        </div>
+      </div>
+      <div class="footer-copyright">
+        <div class="container">
+          &#xA9; 2017 Developer Geek. All rights reserved. Powered by <a href="https://github.com/ShawnTeoh/matjek">MatJek</a>.
+        </div>
+      </div>
+    </footer>
+    <script src="//code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/js/materialize.min.js"></script>
+    
+    
+    <script src="/susomejias.github.io/assets/js/post.js"></script>
+    
+    
+    
+    
+    <script src="/susomejias.github.io/assets/js/main.js"></script>
+  </body>
+</html>
