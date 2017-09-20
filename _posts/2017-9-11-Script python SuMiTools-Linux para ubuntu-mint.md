@@ -3,7 +3,7 @@ layout: post
 title:  "Script SuMiTools-Linux (Ubuntu/mint)"
 date:   2017-08-23 01:30:13 +0800
 categories: Linux
-tags: Linux Kernel XanMod Ubuntu
+tags: Linux Script Python susomejias Miangame SuMiTools-Linux
 ---
 
 Muy buenas a todos/as de nuevo vuelvo por aquí, en esta ocasión para presentaros un <b>script</b> en <b>python</b> que he realizado en conjunción con un compañero llamado <b>Miguel (<https://github.com/Miangame>)</b> de ahi el nombre del script <b>(Su)</b>-De suso, <b>(Mi)</b>-De miguel y <b>(Tools)</b>-De herramientas.
