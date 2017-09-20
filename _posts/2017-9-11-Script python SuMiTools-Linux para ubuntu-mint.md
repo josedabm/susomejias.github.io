@@ -2,7 +2,7 @@
 layout: post
 title:  "Script SuMiTools-Linux (Ubuntu/mint)"
 date:   2017-08-23 01:30:13 +0800
-categories: Linux
+categories: Linux Python
 tags: Linux Script Python susomejias Miangame SuMiTools-Linux
 ---
 
