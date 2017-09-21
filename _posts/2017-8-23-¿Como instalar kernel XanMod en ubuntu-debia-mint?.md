@@ -4,6 +4,7 @@ title:  "¿Cómo instalar kernel XanMod en ubuntu/debian/mint?"
 date:   2017-08-23 01:30:13 +0800
 categories: Linux
 tags: Linux Kernel XanMod Ubuntu
+comments: 1
 ---
 
 Muy buenas chicos/as, hoy os voy a enseñar a instalar un kernel modificado en vuestra distribucción linux, cabe decir que debe ser una distribucción basada en debian/ubuntu, ya que la instalación requiere añadir

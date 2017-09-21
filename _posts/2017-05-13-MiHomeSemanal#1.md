@@ -4,6 +4,7 @@ title:  "MiHomeSemanal#1"
 date:   2017-05-13 01:30:13 +0800
 categories: Android
 tags: Android Launcher Personalización
+comments: 1
 ---
 
 Muy buenas chicos/as, hoy os quiero presentar una nueva sección que será, MiHomeSemanal, en la que explicaré como tengo personalizado, mi home, en mi dispositivo android<b>(Nexus6p)</b>.

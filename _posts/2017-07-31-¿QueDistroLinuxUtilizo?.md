@@ -4,6 +4,7 @@ title:  "¿Qué distro linux utilizo?"
 date:   2017-07-31 01:30:13 +0800
 categories: Linux
 tags: Linux Distribucción Plasma XFCE
+comments: 1
 ---
 
 Muy buenas chicos/as, hoy os voy a presentar la distribucción linux con la cuál me siento mas cómodo y utilizo en mi dia a dia para <b>trabajo y estudios</b>.<br/>

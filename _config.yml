@@ -14,12 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Developer Geek
-description: > # this means to ignore newlines until "baseurl:"
-  Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
+description: "DeveloperGeek, blog dedicado a temáticas Linux, Android y mucho más."
 baseurl: "/susomejias.github.io"
 url: "https://susomejias.github.io"
 permalink: /:year/:month/:day/:title
-repository: ShawnTeoh/matjek
+repository: susomejias/susomejias.github.io
 paginate: 5
 
 # MatJek specific configurations
@@ -27,7 +26,7 @@ github_profile: "https://github.com/susomejias"
 user: "susomejias"
 user_email: "jesusmejias.jm@gmail.com"
 contact_url: "https://goo.gl/tVljbV"
-disqus_shortname: "disqus_oYDHmdCYIE"
+disqus_shortname: disqus_oYDHmdCYIE
 
 # Build settings
 markdown: kramdown

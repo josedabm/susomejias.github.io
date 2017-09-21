@@ -4,7 +4,7 @@ title:  "Bienvenidos/as a DeveloperGeek!!"
 date:   2017-03-23 01:30:13 +0800
 categories: Otros_temas
 tags: Bienvenida
-comments: 1
+comments: true
 ---
 Os doy la bienvenida a DeveloperGeek, en este blog tocaremos temáticas
 sobre Linux, Android, programación en varios lenguajes, tecnología en general.
